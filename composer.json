@@ -12,8 +12,8 @@
     "homepage": "http://coreframework.in",
     "keywords": ["php", "framework", "Core", "Core PHP Framework", "Core Framework"],
     "support": {
-        "issues": "https://github.com/core-framework/http/issues",
-        "source": "https://github.com/core-framework/http"
+        "issues": "https://github.com/core-framework/Http/issues",
+        "source": "https://github.com/core-framework/Http"
     },
     "autoload": {
         "psr-4": {
